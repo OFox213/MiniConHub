@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.0</version>
+  <version>1.0.0.0</version>
   <url>https://github.com/OFox213/MiniConHub/archive/refs/tags/test.zip</url>
   <changelog>https://github.com/OFox213/MiniConHub/releases/tag/test</changelog>
   <mandatory>true</mandatory>
